@@ -1,15 +1,15 @@
-# package-name
+# relative-url
 
-description
+Relative URL that works just like W3C URL.
 
 ### Why?
 
-motivation
+W3C URL cannot handle relative URLs. But we often want to parse relative url or search params safely.
 
 ### How to use
 
 ```
-npm install package-name
+npm install @fsubal/relative-url
 ```
 
 write how to use
